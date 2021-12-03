@@ -1,3 +1,3 @@
 FROM ubuntu:latest
 
-ENTRYPOINT ['ls', '-lah', '*', '*/*']
+ENTRYPOINT ['sh', 'debugtest.sh']
