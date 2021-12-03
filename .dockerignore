@@ -1,3 +1,4 @@
 dockerignored/
 dockerignored2
 *.dockerignored
+**/*.dockerignored
